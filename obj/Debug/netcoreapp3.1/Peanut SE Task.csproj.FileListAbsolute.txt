@@ -1,0 +1,23 @@
+F:\ProjectsVisual\Peanut SE Task\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ProjectsVisual\Peanut SE Task\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ProjectsVisual\Peanut SE Task\bin\Debug\netcoreapp3.1\Peanut SE Task.exe
+F:\ProjectsVisual\Peanut SE Task\bin\Debug\netcoreapp3.1\Peanut SE Task.deps.json
+F:\ProjectsVisual\Peanut SE Task\bin\Debug\netcoreapp3.1\Peanut SE Task.runtimeconfig.json
+F:\ProjectsVisual\Peanut SE Task\bin\Debug\netcoreapp3.1\Peanut SE Task.runtimeconfig.dev.json
+F:\ProjectsVisual\Peanut SE Task\bin\Debug\netcoreapp3.1\Peanut SE Task.dll
+F:\ProjectsVisual\Peanut SE Task\bin\Debug\netcoreapp3.1\Peanut SE Task.pdb
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\Peanut SE Task.csproj.AssemblyReference.cache
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\Peanut SE Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\Peanut SE Task.AssemblyInfoInputs.cache
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\Peanut SE Task.AssemblyInfo.cs
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\Peanut SE Task.csproj.CoreCompileInputs.cache
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\Peanut SE Task.MvcApplicationPartsAssemblyInfo.cache
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\staticwebassets\Peanut SE Task.StaticWebAssets.Manifest.cache
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\staticwebassets\Peanut SE Task.StaticWebAssets.xml
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\scopedcss\bundle\Peanut SE Task.styles.css
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\Peanut SE Task.RazorTargetAssemblyInfo.cache
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\Peanut SE Task.dll
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\Peanut SE Task.pdb
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\Peanut SE Task.genruntimeconfig.cache
+F:\ProjectsVisual\Peanut SE Task\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ProjectsVisual\Peanut SE Task\obj\Debug\netcoreapp3.1\Peanut SE Task.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TcByUgAlMH2Z+jkmUtK0ASMVVLwO/Y4ZZiYszkMhP6SDa+0Edn+vCan+5UblPHRhLaPe/nV1CCwlrf7goUNnhw==",
+  "success": true,
+  "projectFilePath": "F:\\ProjectsVisual\\Peanut SE Task\\Peanut SE Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LPayr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
